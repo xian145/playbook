@@ -1,5 +1,5 @@
 /*
-  export default nos permite exportar esta clase e importara
+  export default nos permite exportar esta clase e importarla
 
   import MyLogger from './logger.js'
 */

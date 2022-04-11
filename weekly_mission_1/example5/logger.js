@@ -8,6 +8,7 @@ class Logger {
     log(message) {
       this.count++ // se aumenta el contador interno al llamar este método
       console.log('[' + this.name + '] ' + message)
+      console.log(this.count);
     }
   }
   
